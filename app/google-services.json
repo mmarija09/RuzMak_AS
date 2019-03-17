@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "189940899583",
+    "firebase_url": "https://fir-mar.firebaseio.com",
+    "project_id": "fir-mar",
+    "storage_bucket": "fir-mar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189940899583:android:39334158c1fbc928",
+        "android_client_info": {
+          "package_name": "com.example.marijampipsem.rm_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189940899583-g8p412emkrgk3u052rdiebogu1ps2cns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.marijampipsem.rm_3",
+            "certificate_hash": "8fad296e209f389bccda3bc51fb19820fe6731ee"
+          }
+        },
+        {
+          "client_id": "189940899583-qqeaadqpo2lkl0r0cfo7o234qs4cc1pf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "189940899583-qqeaadqpo2lkl0r0cfo7o234qs4cc1pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLH3eT-Ga_OH94Il1eloI6MeqYD2vE2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189940899583-qqeaadqpo2lkl0r0cfo7o234qs4cc1pf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
